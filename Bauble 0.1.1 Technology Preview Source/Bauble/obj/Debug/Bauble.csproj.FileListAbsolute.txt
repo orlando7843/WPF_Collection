@@ -1,0 +1,162 @@
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.exe.config
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\calculator.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\CommandPrompt.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\InternetExplorer.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Microphone.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\mIRC.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Notepad.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\PaintShopPro.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\UltraEdit.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Icons.xml
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Chrome.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Outlook.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Wordpad.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\LeftCap.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Middle.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\RightCap.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Separator.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Configure.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Theme.xml
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Configure.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Theme.xml
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\LeftCap.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Middle.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\RightCap.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Separator.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Configure.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\LeftCap.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Middle.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\RightCap.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Separator.png
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Theme.xml
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.exe
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.pdb
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Buttons.dll
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Common.dll
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.IconFlows.dll
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Buttons.pdb
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Common.pdb
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.IconFlows.pdb
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.csprojResolveAssemblyReference.cache
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\AppSettings.baml
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\IconWindow.baml
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\ThemeEditor.baml
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\AppSettings.g.cs
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\IconWindow.g.cs
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\ThemeEditor.g.cs
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\App.g.cs
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble_Content.g.cs
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble_MarkupCompile.cache
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.g.resources
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.Properties.Resources.resources
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.csproj.GenerateResource.Cache
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.exe
+E:\CinqTeam\WPF\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.pdb
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.exe.config
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.exe
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.pdb
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\calculator.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\CommandPrompt.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\InternetExplorer.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Microphone.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\mIRC.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Notepad.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\PaintShopPro.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\UltraEdit.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Icons.xml
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Chrome.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Outlook.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Wordpad.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\LeftCap.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Middle.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\RightCap.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Separator.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Configure.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Theme.xml
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Configure.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Theme.xml
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\LeftCap.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Middle.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\RightCap.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Separator.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Configure.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\LeftCap.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Middle.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\RightCap.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Separator.png
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Theme.xml
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.exe
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.pdb
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Buttons.dll
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Common.dll
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.IconFlows.dll
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Buttons.pdb
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Common.pdb
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.IconFlows.pdb
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.csprojResolveAssemblyReference.cache
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\AppSettings.baml
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\IconWindow.baml
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\ThemeEditor.baml
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\AppSettings.g.cs
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\IconWindow.g.cs
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\ThemeEditor.g.cs
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\App.g.cs
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble_Content.g.cs
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble_MarkupCompile.cache
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.g.resources
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.Properties.Resources.resources
+C:\Users\jmw110\Desktop\苹果菜单\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.exe.config
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.exe
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.pdb
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\calculator.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\CommandPrompt.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\InternetExplorer.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Microphone.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\mIRC.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Notepad.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\PaintShopPro.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\UltraEdit.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Icons.xml
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Chrome.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Outlook.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\icons\Wordpad.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\LeftCap.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Middle.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\RightCap.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Separator.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Configure.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal 3D\Theme.xml
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Configure.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Theme.xml
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\LeftCap.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Middle.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\RightCap.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Debugger\Separator.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Configure.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\LeftCap.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Middle.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\RightCap.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Separator.png
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Themes\Crystal\Theme.xml
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.exe
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.pdb
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Buttons.dll
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Common.dll
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.IconFlows.dll
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Buttons.pdb
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.Common.pdb
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\bin\Debug\Bauble.IconFlows.pdb
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\AppSettings.baml
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\IconWindow.baml
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\ThemeEditor.baml
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\AppSettings.g.cs
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\IconWindow.g.cs
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\ThemeEditor.g.cs
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\App.g.cs
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble_Content.g.cs
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble_MarkupCompile.cache
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.g.resources
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.Properties.Resources.resources
+C:\Users\student\Downloads\Bauble 0.1.1 Technology Preview Source\Bauble\obj\Debug\Bauble.csproj.GenerateResource.Cache
